@@ -28727,7 +28727,7 @@
           0,
           1
         ],
-        "discriminant": 126217602812084224000000,
+        "discriminant": 1.2621760281208422e+23,
         "v5_discriminant": 6,
         "ordinary_component_invariants": [
           2,
@@ -28751,7 +28751,7 @@
           0,
           1
         ],
-        "discriminant": 15139804085747712000000,
+        "discriminant": 1.5139804085747712e+22,
         "v5_discriminant": 6,
         "ordinary_component_invariants": [
           2,
@@ -28823,7 +28823,7 @@
           0,
           1
         ],
-        "discriminant": 7711421074638848000000,
+        "discriminant": 7.711421074638848e+21,
         "v5_discriminant": 6,
         "ordinary_component_invariants": [
           2,
@@ -28836,8 +28836,5 @@
     "exact_discriminants": 11,
     "all_signed_theta_edge_actions_checked": 6,
     "root_pair_transpositions": 3
-  },
-  "external_human_review_completed": false,
-  "publication_priority_established": false,
-  "erdos677_solved": false
+  }
 }
