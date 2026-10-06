@@ -1,11 +1,19 @@
 cff-version: 1.2.0
-message: "If you use or refer to this work, please cite the preprint below."
-title: "Integral cubic torsion and Frobenius in genus two"
-type: article
-version: "1.0.0"
-date-released: 2026-10-06
+message: "If you use this repository or its verification code, please cite the preprint below."
+title: "Integral cubic torsion and Frobenius in genus two: verification materials"
+type: software
+version: "1.0.1"
+date-released: "2026-10-06"
 authors:
   - family-names: "Davis"
     given-names: "Kyle"
-doi: "10.5281/zenodo.23196462"
-url: "https://doi.org/10.5281/zenodo.23196462"
+repository-code: "https://github.com/KDDavis91/integral-cubic-torsion-genus-two"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Davis"
+      given-names: "Kyle"
+  title: "Integral cubic torsion and Frobenius in genus two"
+  year: 2026
+  doi: "10.5281/zenodo.23196462"
+  url: "https://doi.org/10.5281/zenodo.23196462"
