@@ -1,7 +1,6 @@
 """Standalone exact verifier for Frobenius on integral cubic two-torsion.
 
-Python 3.10+, standard library only. No earlier research files are loaded.
-This is a computational certificate, not external human peer review.
+Python 3.10+, standard library only.
 """
 from fractions import Fraction
 from itertools import combinations, permutations, product
