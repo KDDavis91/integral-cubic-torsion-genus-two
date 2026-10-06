@@ -4,7 +4,9 @@
 
 This repository accompanies the preprint **“Integral cubic torsion and Frobenius in genus two.”**
 
-**Zenodo DOI:** [10.5281/zenodo.23196462](https://doi.org/10.5281/zenodo.23196462)
+**Preprint DOI:** [10.5281/zenodo.23196462](https://doi.org/10.5281/zenodo.23196462)
+
+[![Software DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23197549.svg)](https://doi.org/10.5281/zenodo.23197549)
 
 ## Summary
 
@@ -26,11 +28,11 @@ The paper also gives explicit genus-two curves over \(\mathbf Q_5\) with identic
 
 ## Preprint
 
-The DOI-backed version of record for the first public preprint is available on Zenodo:
+The DOI-backed preprint is available on Zenodo:
 
 - https://doi.org/10.5281/zenodo.23196462
 
-A copy of the PDF is included in this repository release.
+A copy of the PDF is included in this repository.
 
 ## Verification
 
@@ -54,12 +56,18 @@ The verifier supports the displayed algebraic and arithmetic calculations; the p
 
 ## Citation
 
-Please cite the Zenodo preprint:
+Please cite the Zenodo preprint for the mathematical paper:
 
 > Kyle Davis, *Integral cubic torsion and Frobenius in genus two*, 2026. DOI: 10.5281/zenodo.23196462.
+
+The repository and verification materials are archived separately on Zenodo:
+
+- https://doi.org/10.5281/zenodo.23197549
 
 Machine-readable citation metadata is provided in [`CITATION.cff`](CITATION.cff).
 
 ## Version
 
-The initial release corresponds to the public version dated **6 October 2026**.
+Current repository release: **v1.0.1**.
+
+The first public version of the work was dated **6 October 2026**.
