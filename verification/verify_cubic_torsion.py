@@ -538,16 +538,14 @@ def main():
     examples = arithmetic_examples()
     out = {'status': 'PASS', 'presentation_unimodular_determinant': PRESENTATION_DETERMINANT,
            'polynomial_certificates': polynomial, 'finite_certificates': finite,
-           'arithmetic_examples': examples, 'external_human_review_completed': False,
-           'publication_priority_established': False, 'erdos677_solved': False}
+           'arithmetic_examples': examples}
     args.output.write_text(json.dumps(out, indent=2)+'\n')
     print(json.dumps({'status': 'PASS', 'presentation_determinant': PRESENTATION_DETERMINANT,
                       **polynomial, 'actions_checked': finite['finite_actions'],
                       'canonical_graph_isomorphisms': finite['canonical_primitive_graph_isomorphisms'],
                       'middle_minor_normal_forms': finite['middle_minor_normal_forms'],
                       'distinct_weight_map_pairs': finite['distinct_weight_map_pairs'],
-                      'arithmetic_discriminants': examples['exact_discriminants'],
-                      'external_human_review_completed': False}, indent=2))
+                      'arithmetic_discriminants': examples['exact_discriminants']}, indent=2))
 
 
 if __name__ == '__main__':
